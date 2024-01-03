@@ -1,2 +1,2 @@
-# UAS-PBD
-Project akhir uas mata kuliah pengolahan basis data
+# sladaa
+Api untuk aplikasi sladaa.
